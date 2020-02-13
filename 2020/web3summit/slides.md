@@ -27,6 +27,14 @@ Let's learn a bit more about who is here...
 
 ---
 
+# SustainOSS.org
+
+* Podcast
+* Forum
+* Annual Summit
+
+---
+
 # Hi! 👋 I'm Eric Berry
 
 * Gitcoin Co-Founder & CodeFund Lead
