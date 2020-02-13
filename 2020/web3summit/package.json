@@ -1,0 +1,18 @@
+{
+  "name": "web3summit",
+  "version": "1.0.0",
+  "description": "",
+  "dependencies": {},
+  "devDependencies": {
+    "@marp-team/marp-cli": "^0.17.0"
+  },
+  "scripts": {
+    "watch": "npx @marp-team/marp-cli -w slides.md",
+    "server": "npx @marp-team/marp-cli -s ./slides",
+    "preview": "npx @marp-team/marp-cli -p ./slides.md",
+    "build": "npx @marp-team/marp-cli ./slides.md -o slides.html"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
