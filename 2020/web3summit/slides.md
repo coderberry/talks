@@ -393,6 +393,7 @@ Discuss potential for disruption by web3 tech
 * [SustainOSS.org](https://sustainoss.org)
 * [Lemonade Stand](https://github.com/nayafia/lemonade-stand#venture-capital)
 * [oss.fund](https://oss.fund)
-* [Slides]()
+* [Slides](https://github.com/coderberry/talks)
+* [Powered by Marp](https://marp.app/)
 
 ---

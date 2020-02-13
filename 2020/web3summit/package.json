@@ -10,7 +10,7 @@
     "watch": "npx @marp-team/marp-cli -w slides.md",
     "server": "npx @marp-team/marp-cli -s ./slides",
     "preview": "npx @marp-team/marp-cli -p ./slides.md",
-    "build": "npx @marp-team/marp-cli ./slides.md -o slides.html"
+    "build": "npx @marp-team/marp-cli ./slides.md -o ../../docs/why-am-i-not-funded.html"
   },
   "keywords": [],
   "author": "",
